@@ -1,5 +1,5 @@
 ### Application Vue2.js/Vuetify/SASS donnant des informations sur les chats
-*Le même projet a été fait en Vue et SASS uniquement : https://github.com/MaximeVerdy/cats-in-cards-in-vue2*
+*Le même projet a été fait en Vue et SASS uniquement : https://github.com/MaximeVerdy/cats-in-cards-in-vue2*    
 *Le même projet a été fait en React : https://github.com/MaximeVerdy/cats-in-cards*
 
 * Les informations sont fetchées sur https://catfact.ninja
