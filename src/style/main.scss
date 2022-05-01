@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap");
+
+.v-application {
+  [class*="text-"] {
+    color: #4f546c;
+    font-family: "Noto Sans", sans-serif !important;
+  }
+  font-family: "Noto Sans", sans-serif !important;
+}
+
+.lineHeight {
+  line-height: 2rem;
+}
+
+.catCard {
+  &:hover {
+    transform: scale(1.06);
+  }
+}
